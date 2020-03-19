@@ -17,15 +17,19 @@
   },
   "dependencies": {
     "@lekoarts/gatsby-theme-cara": "^1.0.19",
+    "@mdx-js/mdx": "^1.5.5",
+    "@mdx-js/react": "^1.5.5",
     "gatsby": "^2.13.72",
     "gatsby-plugin-google-analytics": "^2.1.8",
     "gatsby-plugin-manifest": "^2.2.6",
+    "gatsby-plugin-mdx": "^1.0.73",
     "gatsby-plugin-netlify": "^2.1.6",
     "gatsby-plugin-offline": "^2.2.7",
     "react": "^16.9.0",
     "react-dom": "^16.9.0"
   },
   "devDependencies": {
-    "cross-env": "^5.2.0"
+    "cross-env": "^5.2.0",
+    "gh-pages": "^2.2.0"
   }
 }
