@@ -1,0 +1,31 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+/component---node-modules-lekoarts-gatsby-theme-cara-src-templates-cara-tsx-b408c719ecd43bbb157c.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---node-modules-gatsby-plugin-offline-app-shell-js-5e73c09e88e520f7c04e.js
+  Cache-Control: public, max-age=31536000, immutable
+/webpack-runtime-cecf72fe1bdd1230770b.js
+  Cache-Control: public, max-age=31536000, immutable
+/framework-29b4b0082b5cd007a85b.js
+  Cache-Control: public, max-age=31536000, immutable
+/app-c4465e1bc62f4e606069.js
+  Cache-Control: public, max-age=31536000, immutable
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/
+  Link: </webpack-runtime-cecf72fe1bdd1230770b.js>; rel=preload; as=script
+  Link: </framework-29b4b0082b5cd007a85b.js>; rel=preload; as=script
+  Link: </app-c4465e1bc62f4e606069.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-cara-src-templates-cara-tsx-b408c719ecd43bbb157c.js>; rel=preload; as=script
+/offline-plugin-app-shell-fallback/
+  Link: </webpack-runtime-cecf72fe1bdd1230770b.js>; rel=preload; as=script
+  Link: </framework-29b4b0082b5cd007a85b.js>; rel=preload; as=script
+  Link: </app-c4465e1bc62f4e606069.js>; rel=preload; as=script
+  Link: </component---node-modules-gatsby-plugin-offline-app-shell-js-5e73c09e88e520f7c04e.js>; rel=preload; as=script
